@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+    <!-- Brand Colors -->
+    <color name="primaryColor">#1976D2</color> <!-- Blue -->
+    <color name="primaryDarkColor">#0D47A1</color>
+    <color name="accentColor">#FF9800</color> <!-- Orange -->
+
+    <!-- Backgrounds -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="surfaceColor">#F5F5F5</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+
+    <!-- Utility -->
+    <color name="white">#FFFFFF</color>
+    <color name="teal_700">#018786</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="error">#D32F2F</color>
+
+
+
+
+
+
+</resources>

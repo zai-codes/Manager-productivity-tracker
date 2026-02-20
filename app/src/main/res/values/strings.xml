@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add">Add</string>
+    <string name="new_task">New task</string>
+<string name="title">Title</string>
+<string name="priority">Priority</string>
+<string name="deadline">Deadline</string>
+<string name="save">Save</string>
+<string name="cancel">Cancel</string>
+<string name="low">Low</string>
+<string name="medium">Medium</string>
+<string name="high">High</string>
+<string name="delete">Delete</string>
+    <string name="h">h</string>
+    <string name="completed_today_0">Completed today: 0</string>
+    <string name="no_deadline">No deadline selected</string>
+    <string name="select_deadline_date">Select Deadline Date</string>
+    <string name="deadline_label">Deadline: %1$s</string>
+    <string name="enter_title_warning">Please enter a title</string>
+    <string name="task_due_message">Task \'%1$s\' is due on %2$s</string>
+    <string name="task_saved_message">Task saved &amp; reminder set!</string>
+
+</resources>
