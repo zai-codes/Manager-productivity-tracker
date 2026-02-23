@@ -1,3 +1,5 @@
+The Task Management & Productivity Tracker is a full-featured web/app solution designed to help students, professionals, and teams stay organized. It allows users to create, manage, and track tasks with deadlines, reminders, and productivity insights.
+This project was built with the goal of empowering newcomers in tech and remote learners to manage their daily workload effectively
 Features
 - Account Management: Email/Google sign‑in, secure login/logout
 - Task Management: Create, read, update, delete (CRUD) tasks
