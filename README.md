@@ -11,6 +11,11 @@ Features
 - Cloud Backup & Multi‑Device Sync
 - Export Options: PDF/CSV reports
 - UI Options: Dark mode, clean minimal design
+Project Images
+![Login-auth](https://github.com/user-attachments/assets/8b64a8b6-7c09-42ba-bd57-293c29ff0306)
+![set-deadline](https://github.com/user-attachments/assets/bfab98a6-a432-4d6b-997b-a5850d05e48c)
+![Dashboard](https://github.com/user-attachments/assets/f4992286-5a0c-4b97-8e9f-b8d00e4c27ed)
+
 Tech Stack
 - Language: Kotlin
 - Architecture: MVVM (Model‑View‑ViewModel)
